@@ -11,9 +11,7 @@ Features
 
 Installation
 
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
-
+git clone https://github.com/fbediako969-oss/student_result_and_scholarship_eligibility.git
 Usage
 
 from student_lib import calculate_result, check_scholarship, calculate_fee
@@ -35,4 +33,4 @@ Functions
 - `calculate_fee(tuition, is_eligible)` - Returns final fee after discount
 
 Project URL
-`https://github.com/YOUR-USERNAME/YOUR-REPO-NAME`
+https://github.com/fbediako969-oss/student_result_and_scholarship_eligibility.git
